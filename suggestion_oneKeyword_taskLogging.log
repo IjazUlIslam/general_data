@@ -1,0 +1,17 @@
+INFO:my_logger:{
+    "keyword": "['laptop']",
+    "suggestions": [
+        "laptop wallpaper",
+        "laptop bag",
+        "laptop hp",
+        "laptop stand",
+        "laptop repair near me",
+        "laptop repair lahore",
+        "laptop repair johar town",
+        "laptop price",
+        "laptop deals",
+        "laptop asus"
+    ],
+    "misspelled": true,
+    "correct_keyword": "laptop hp"
+}

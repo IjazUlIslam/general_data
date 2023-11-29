@@ -1,0 +1,53 @@
+INFO:my_logger:[
+    {
+        "keyword": "ijaz",
+        "suggestions": [
+            "ijazat song",
+            "ijazat lyrics",
+            "ijaz ul haq",
+            "ijaz rehman",
+            "ijazat",
+            "ijaz",
+            "ijaz name meaning in urdu",
+            "ijazat falak mp3 download",
+            "ijaz ansari",
+            "ijaz ul ahsan"
+        ],
+        "miss_spelled": false,
+        "correct_keyword": null
+    },
+    {
+        "keyword": "zahid",
+        "suggestions": [
+            "zahid ahmed",
+            "zahid nihari",
+            "zahid",
+            "zahid name meaning in urdu",
+            "zahida hina",
+            "zahid hussain",
+            "zahid akhtar zaman",
+            "zahida name meaning in urdu",
+            "zahid taimoor",
+            "zahid khan"
+        ],
+        "miss_spelled": false,
+        "correct_keyword": null
+    },
+    {
+        "keyword": "saad",
+        "suggestions": [
+            "saad lamjarred",
+            "saad name meaning in urdu",
+            "saad rizvi",
+            "saad",
+            "saad qureshi",
+            "saad hussain rizvi",
+            "saadi town",
+            "saadat hasan manto",
+            "saad lamjarred songs",
+            "saad lamjarred wife"
+        ],
+        "miss_spelled": false,
+        "correct_keyword": null
+    }
+]

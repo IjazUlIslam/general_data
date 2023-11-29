@@ -1,0 +1,85 @@
+INFO:my_logger:{
+    "keyword": "numi",
+    "suggestions": [
+        "numismatics",
+        "numista",
+        "numilk",
+        "numil milk",
+        "numinous",
+        "numismatist",
+        "numinous meaning",
+        "numinous meaning in urdu",
+        "numil care milk",
+        "numi"
+    ],
+    "misspelled": false,
+    "correct_keyword": null
+}
+INFO:my_logger:{
+    "keyword": "laptop",
+    "suggestions": [
+        "laptop price in pakistan",
+        "laptop",
+        "laptops dot",
+        "laptop scheme 2023",
+        "laptop scheme",
+        "laptop wallpaper",
+        "laptop bags",
+        "laptop price",
+        "laptop price lahore",
+        "laptop price islamabad"
+    ],
+    "misspelled": false,
+    "correct_keyword": null
+}
+INFO:my_logger:{
+    "keyword": "mobile",
+    "suggestions": [
+        "mobile price in pakistan",
+        "mobile",
+        "mobile phone",
+        "mobile number tracker",
+        "mobile tracker",
+        "mobile wallpaper",
+        "mobile price in pakistan 15000 to 20000",
+        "mobile phone price in pakistan",
+        "mobile ringtone",
+        "mobile accessories"
+    ],
+    "misspelled": false,
+    "correct_keyword": null
+}
+INFO:my_logger:{
+    "keyword": "pen",
+    "suggestions": [
+        "penguin",
+        "penchant for puns",
+        "pension calculator",
+        "pennsylvania",
+        "penicillin",
+        "penchant meaning",
+        "pentagon",
+        "penguin brother game",
+        "peninsula",
+        "pencil drawing"
+    ],
+    "misspelled": true,
+    "correct_keyword": "penguin"
+}
+INFO:my_logger:{
+    "keyword": "page",
+    "suggestions": [
+        "page",
+        "pagespeed insights",
+        "paget's disease",
+        "pageant meaning in urdu",
+        "page border design",
+        "pageant meaning",
+        "pageant",
+        "page decoration ideas",
+        "page refresh extension",
+        "page border"
+    ],
+    "misspelled": false,
+    "correct_keyword": null
+}
